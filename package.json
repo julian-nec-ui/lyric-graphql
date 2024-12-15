@@ -1,0 +1,22 @@
+{
+  "name": "lyric-graphql",
+  "version": "1.0.0",
+  "description": "graphql tutorial",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/julian-nec-ui/lyric-graphql"
+  },
+  "author": "julian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julian-nec-ui/lyric-graphql/issues"
+  },
+  "homepage": "https://github.com/julian-nec-ui/lyric-graphql#readme"
+}
